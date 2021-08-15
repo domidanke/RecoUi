@@ -1,5 +1,5 @@
 # RecoUi
-This Repository represents the flutter front end Reco-app. It will serves as the app's Ui.
+This Repository represents the flutter front end Reco-app. It serves as the app's Ui.
 
 ## Prerequisites
 
