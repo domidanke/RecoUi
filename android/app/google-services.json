@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075042924311",
+    "project_id": "reco-71aea",
+    "storage_bucket": "reco-71aea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075042924311:android:4ef302b69d927f9c3c2952",
+        "android_client_info": {
+          "package_name": "com.domidanke.reco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075042924311-85tu47pvnp7640i575do6qi428mk98nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRShlnecCmZmNAQhNWZICGaCg20_ZTQAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075042924311-85tu47pvnp7640i575do6qi428mk98nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
